@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="app_pp">https://www.freeprivacypolicy.com/live/f34c3afd-579b-452b-8964-ce3e28d2a8c2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="tayorlanw">Gita o\'quv markazi \'Android + Flutter Bootcamp\' kursi\n24 - darsda tayyorlangan dastur.</string>
+    <string name="maxsus">2048 ilovasi o\'yin ishqibozlari uchun maxsus tayyorlandi</string>
+    <string name="men">Dastur tuzuvchisi \n Ikromov Jamshidbek</string>
+
+
+</resources>
